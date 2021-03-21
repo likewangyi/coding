@@ -6,11 +6,8 @@ avatar: "assets/images/authors/logo.jpg"
 image: "assets/images/A0.jpg"
 ---
 
-**文 | 小米**  
-**图 | 小米**  
 
-> 哇！好有趣的一群灵魂！
->        
+
 
 
 
@@ -18,20 +15,22 @@ image: "assets/images/A0.jpg"
 
 
 
-![502]({{ site.baseurl }}/assets/images/A1（1）.jpg)
+![502]({{ site.baseurl }}/assets/images/1.jpg)
 
 
 
 
-![503]({{ site.baseurl }}/assets/images/A1（2）.jpg)
+![503]({{ site.baseurl }}/assets/images/2.jpg)
 
  
 
-![504]({{ site.baseurl }}/assets/images/A1（3）.jpg)
+![504]({{ site.baseurl }}/assets/images/3.jpg)
 
   
 
-![505]({{ site.baseurl }}/assets/images/A1（4）.jpg)
+![505]({{ site.baseurl }}/assets/images/4.jpg)
+![505]({{ site.baseurl }}/assets/images/5.jpg)
+![505]({{ site.baseurl }}/assets/images/6.jpg)
 
 
 
