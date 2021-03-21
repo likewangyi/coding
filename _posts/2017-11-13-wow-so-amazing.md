@@ -18,20 +18,20 @@ image: "assets/images/A0.jpg"
 
 
 
-![502]({{ site.baseurl }}/assets/images/A1(1).jpg)
+![502]({{ site.baseurl }}/assets/images/A1（1）.jpg)
 
 
 
 
-![503]({{ site.baseurl }}/assets/images/A1(2).jpg)
+![503]({{ site.baseurl }}/assets/images/A1（2）.jpg)
 
  
 
-![504]({{ site.baseurl }}/assets/images/A1(3).jpg)
+![504]({{ site.baseurl }}/assets/images/A1（3）.jpg)
 
   
 
-![505]({{ site.baseurl }}/assets/images/A1(4).jpg)
+![505]({{ site.baseurl }}/assets/images/A1（4）.jpg)
 
 
 
