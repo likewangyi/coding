@@ -29,9 +29,6 @@ image: "assets/images/A0.jpg"
   
 
 ![505]({{ site.baseurl }}/assets/images/4.jpg)
-![505]({{ site.baseurl }}/assets/images/5.jpg)
-![505]({{ site.baseurl }}/assets/images/6.jpg)
-
 
 
 ![507]({{ site.baseurl }}/assets/images/A2.jpg)
